@@ -11,7 +11,7 @@
 > ETH Zurich & HKUST
 
 ## **ONNX export**
-The original SAM's heavy encoder and HQ-SAM's lightweight mask decoder can be exported to ONNX format so that it can be run in any environment that supports ONNX runtime. Export the model with `run.sh`
+The HQ-SAM's heavy encoder and lightweight mask decoder can be exported to ONNX format so that it can be run in any environment that supports ONNX runtime. Export the model with `run.sh`
 
 [Option-1]
 
