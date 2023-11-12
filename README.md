@@ -22,9 +22,7 @@ You can see the [example notebook](https://colab.research.google.com/drive/11U2L
 If you are targeting a deployment scenario, it's recommended refer to the example in `scripts/main.py`. Similarly, you can find the execution command in the `run.sh` script.
 
 ![example4_box](./workdir/ort_demo_results/example4_box.png)
-
 ![example4_point1](./workdir/ort_demo_results/example4_point1.png)
-
 ![example4_point2](./workdir/ort_demo_results/example4_point2.png)
 
 Citation
