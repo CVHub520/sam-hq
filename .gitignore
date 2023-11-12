@@ -1,6 +1,2 @@
 __pycache__
-workdir/*
-!workdir/ort_demo_results/example4_box.png
-!workdir/ort_demo_results/example4_point1.png
-!workdir/ort_demo_results/example4_point2.png
 segment_anything.egg-info/
